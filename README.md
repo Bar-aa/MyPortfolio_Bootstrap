@@ -2,14 +2,6 @@
 
 Welcome to my personal portfolio! This is a website that showcases my work, projects, volunteering experiences, and other key information about my journey in web development and data analysis. Feel free to explore and connect with me!
 
-## Features
-
-- **Responsive Design**: The portfolio adjusts to various screen sizes (desktop, tablet, mobile).
-- **Navbar**: A navigation bar that links to different sections like Home, About, Services, Projects, Volunteering, Trainings, and Contact.
-- **Contact Form**: A form to reach out to me, which displays a confirmation modal upon submission.
-- **FAQ Section**: An accordion that helps organize frequently asked questions (FAQs).
-- **Social Media Links**: LinkedIn and GitHub links are included in the footer for easy access to my profiles.
-
 ## Requirements
 
 Before you begin, ensure that you have met the following requirements:
